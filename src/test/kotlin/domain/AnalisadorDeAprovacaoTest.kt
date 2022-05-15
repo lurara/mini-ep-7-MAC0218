@@ -4,6 +4,7 @@ import domain.criterios.Basico
 import domain.criterios.CriterioDeAprovacao
 import domain.criterios.Intermediario
 import domain.criterios.Rigoroso
+import domain.AnalisadorDeAprovacao
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
